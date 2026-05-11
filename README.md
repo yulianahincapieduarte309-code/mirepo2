@@ -2,7 +2,8 @@
 
 En este repositorio haremos:
 
-- [ ] Pruebas de branching
-- [ ] Pruebas de resolucion de confictos
+- [x] Pruebas de branching
+- [x] Pruebas de resolucion de confictos
+- [ ] Conflicto local remoto
 
 
