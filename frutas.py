@@ -5,5 +5,7 @@ Print("Banano")
 
 print("Mandarina")
 print("Guayaba")
+print("mandarina")
+print("carambolo")
 
 

@@ -3,5 +3,7 @@
 print("colombia")
 print("Francia")
 print("JApon")
-
+print("Rusia")
+prin("Cuba")
+print("Argentina")
 
